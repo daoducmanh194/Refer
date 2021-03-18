@@ -1,0 +1,13 @@
+F:\repos\ReorderTime\ReorderTime\bin\Debug\netcoreapp3.1\ReorderTime.exe
+F:\repos\ReorderTime\ReorderTime\bin\Debug\netcoreapp3.1\ReorderTime.deps.json
+F:\repos\ReorderTime\ReorderTime\bin\Debug\netcoreapp3.1\ReorderTime.runtimeconfig.json
+F:\repos\ReorderTime\ReorderTime\bin\Debug\netcoreapp3.1\ReorderTime.runtimeconfig.dev.json
+F:\repos\ReorderTime\ReorderTime\bin\Debug\netcoreapp3.1\ReorderTime.dll
+F:\repos\ReorderTime\ReorderTime\bin\Debug\netcoreapp3.1\ReorderTime.pdb
+F:\repos\ReorderTime\ReorderTime\obj\Debug\netcoreapp3.1\ReorderTime.csprojAssemblyReference.cache
+F:\repos\ReorderTime\ReorderTime\obj\Debug\netcoreapp3.1\ReorderTime.AssemblyInfoInputs.cache
+F:\repos\ReorderTime\ReorderTime\obj\Debug\netcoreapp3.1\ReorderTime.AssemblyInfo.cs
+F:\repos\ReorderTime\ReorderTime\obj\Debug\netcoreapp3.1\ReorderTime.csproj.CoreCompileInputs.cache
+F:\repos\ReorderTime\ReorderTime\obj\Debug\netcoreapp3.1\ReorderTime.dll
+F:\repos\ReorderTime\ReorderTime\obj\Debug\netcoreapp3.1\ReorderTime.pdb
+F:\repos\ReorderTime\ReorderTime\obj\Debug\netcoreapp3.1\ReorderTime.genruntimeconfig.cache
